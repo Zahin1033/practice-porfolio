@@ -106,3 +106,10 @@ main{
     text-align: center;
     margin-top: 130px;
 }
+.item-description{
+    font-weight: 600;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
